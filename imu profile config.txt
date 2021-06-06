@@ -1,0 +1,19 @@
+imu profile config
+
+sensor/timing setting
+    Gyroscope measurements
+        inverse scale factor = 1000000
+        units= angular rates
+
+    Accelerometer measurements
+        inverse scale factor = 1000000
+        units= accelerations
+
+    Timing setting
+        Data Rate = 250Hz
+        units(SoW) = GPS
+
+    Sensor Orientation
+        X: front
+        Y: right
+        Z: down
